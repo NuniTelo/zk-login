@@ -1,0 +1,17 @@
+<zk>
+    <window title="Login" apply="zk.springboot.LoginController.Login">
+
+        <vbox>
+        <label>Emri:</label>
+        <textbox id="emri"/>
+
+        <label>Password:</label>
+        <textbox id="password"/>
+
+        <button id="login">Login</button>
+
+        </vbox>
+
+
+    </window>
+</zk>

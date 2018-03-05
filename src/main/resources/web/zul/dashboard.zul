@@ -1,0 +1,6 @@
+<zk>
+    <window apply="zk.springboot.LoginController.DashboardController">
+        <label id="username"/>
+        <button id="logout">Logout</button>
+    </window>
+</zk>
